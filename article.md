@@ -2,14 +2,14 @@
 template: article
 auto: true
 feed: true
-title: testsetestset
+title: Ein neuer Titel
 description: Lead
-slug: testsetestset
+slug: ein-neuer-titel
 ---
 
 <section><h6>TITLE</h6>
 
-# testsetestset
+# Ein neuer Titel
 
 Lead
 
