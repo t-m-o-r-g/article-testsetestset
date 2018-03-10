@@ -3,7 +3,7 @@ template: article
 auto: true
 feed: true
 title: Ein neuer Titel
-description: Lead
+description: Mit einem Lead
 slug: ein-neuer-titel
 ---
 
@@ -11,7 +11,7 @@ slug: ein-neuer-titel
 
 # Ein neuer Titel
 
-Lead
+Mit einem Lead
 
 Von [Thomas Moser](/~75ebbabc-d577-4727-a8c9-de5b20a76eab) (Text) und Kollaborator, 3. März 2018
 
